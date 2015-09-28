@@ -1,0 +1,22 @@
+picked out the lines that
+potentially contained the errors
+
+how could having easy access to the
+entire history of a file make you a 
+more efficient  programmer in the
+long term?
+
+can easily pick out errors and move on
+
+what do you think are the pros and cons
+of manually choosing when to create a 
+commit?
+
+can commit at logical times and as often
+as you want
+
+why do you think git allows saving multiple
+files in one commit
+
+because coding files are frequently
+interconnected
