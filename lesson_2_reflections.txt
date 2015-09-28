@@ -1,0 +1,1 @@
+creates empty git repository so that you can track file changes
