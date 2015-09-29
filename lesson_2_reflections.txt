@@ -1,1 +1,3 @@
 creates empty git repository so that you can track file changes
+
+branches let you create multiple versions and create experimental changes
